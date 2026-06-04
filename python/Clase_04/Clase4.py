@@ -77,14 +77,6 @@ print(f"El resultado de la division o residuo (modulo) es : {modulo}") # DIVISIO
 exponente = operandoA ** operandoB
 print(f"El resultado de la exponente es : {exponente}") # EXPONENTE
 """
-"""
-alto = int(input("Proporciona el alto del rectangulo: "))
-ancho = int(input("Proporciona el ancho del rectangulo: "))
-area = alto * ancho
-perimetro = (alto + ancho) * 2
-print("Area: ", area)
-print("perimetro: ", perimetro)
-"""
 miVariable3 = 10
 print(miVariable3)
 
