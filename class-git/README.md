@@ -170,9 +170,9 @@ rm historia.txt #Eliminamos el archivo que habíamos hecho, esto en git bash (wi
 rm Git #rm: cannot remove 'Git': Is a directory
 
 rm --recursive -R Git #By default, rm does not remove directories.  Use the --recursive (-r or -R) arguments
-
+```
 option to remove each listed directory, too, along with all of its contents. Esto es para practica
-
+```sh
 rm --help #Nos muestra lo que les puse arriba como documentación en Inglés.
 
 mkdir class-git #Creamos la carpeta o directorio para trabajar en Git local por ahora.
